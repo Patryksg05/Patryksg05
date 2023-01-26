@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patryksg05&label=Profile%20views&color=0e75b6&style=flat" alt="patryksg05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patryksg05" alt="patryksg05" /></a> </p>
-
 - 🔭 I’m currently working on [TicTacToe => (MobileApp)](https://github.com/Patryksg05/school/blob/master/java/games/TicTacToe/src/TicTacToe/pl/Main.java)
 
 - 🌱 I’m currently learning **JAVA, C++, C#, TS**
