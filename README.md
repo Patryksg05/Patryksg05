@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patryksg05&label=Profile%20views&color=0e75b6&style=flat" alt="patryksg05" /> </p>
 
-- 🔭 I’m currently working on [TicTacToe => (MobileApp)](https://github.com/Patryksg05/school/blob/master/java/games/TicTacToe/src/TicTacToe/pl/Main.java)
-
+- 🔭 I’m currently working on Banking System Managment (BSM)
 - 🌱 I’m currently learning **JAVA, C++, C#, TS**
 
 - 🤝 I’m looking for help with **interesting projects...**
